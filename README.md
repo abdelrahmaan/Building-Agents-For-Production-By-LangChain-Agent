@@ -121,13 +121,14 @@ This repository contains three Modules that serve as introductions to many of La
 
 ### Lesson 1: LangChain Foundational 
 
+- Loading environment
 - How to call llm?
-- Chat models
+- Direct Model Instantiation (`ChatOpenAI`)
+- Unified Initialization (`init_chat_model`)
 - Invocation
     - invoke
     - stream
     - batch 
-
 - Tool Calling
 
 
